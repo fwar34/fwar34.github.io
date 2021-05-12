@@ -17,7 +17,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 cd docs
 
 # Add changes to git.
-git add -A .
+git add .
 
 # Commit changes.
 msg="rebuilding site $(date)"
