@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>fwar34.github.io/posts/first/</loc>
+    <loc>http://example.org/posts/first/</loc>
     <lastmod>2021-05-12T16:45:18+08:00</lastmod>
   </url><url>
-    <loc>fwar34.github.io/tags/hugo/</loc>
+    <loc>http://example.org/tags/hugo/</loc>
     <lastmod>2021-05-12T16:45:18+08:00</lastmod>
   </url><url>
-    <loc>fwar34.github.io/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2021-05-12T16:45:18+08:00</lastmod>
   </url><url>
-    <loc>fwar34.github.io/posts/</loc>
+    <loc>http://example.org/posts/</loc>
     <lastmod>2021-05-12T16:45:18+08:00</lastmod>
   </url><url>
-    <loc>fwar34.github.io/tags/</loc>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2021-05-12T16:45:18+08:00</lastmod>
   </url><url>
-    <loc>fwar34.github.io/tags/test/</loc>
+    <loc>http://example.org/tags/test/</loc>
     <lastmod>2021-05-12T16:45:18+08:00</lastmod>
   </url><url>
-    <loc>fwar34.github.io/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url>
 </urlset>
