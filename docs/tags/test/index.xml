@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>fwar34.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>test on My New Hugo Site</title>
+    <link>fwar34.github.io/tags/test/</link>
+    <description>Recent content in test on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2021 16:45:18 +0800</lastBuildDate><atom:link href="fwar34.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 16:45:18 +0800</lastBuildDate><atom:link href="fwar34.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first</title>
       <link>fwar34.github.io/posts/first/</link>
@@ -14,15 +14,6 @@
       
       <guid>fwar34.github.io/posts/first/</guid>
       <description>这个文件是一个测试文件，测试 org 文件在 hugo 静态博客中的使用。</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>fwar34.github.io/posts/first-post/</link>
-      <pubDate>Wed, 12 May 2021 14:47:54 +0800</pubDate>
-      
-      <guid>fwar34.github.io/posts/first-post/</guid>
-      <description></description>
     </item>
     
   </channel>
