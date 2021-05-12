@@ -1,50 +1,50 @@
-<?xml-stylesheet type="text/xsl" href="https://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://fwar34.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://localhost:1313/post/first/</loc>
+    <loc>https://fwar34.github.io/post/first/</loc>
     <lastmod>2021-05-12T18:01:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://localhost:1313/tags/hugo/</loc>
+    <loc>https://fwar34.github.io/tags/hugo/</loc>
     <lastmod>2021-05-12T18:01:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://localhost:1313/</loc>
+    <loc>https://fwar34.github.io/</loc>
     <lastmod>2021-05-12T18:01:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://localhost:1313/post/</loc>
+    <loc>https://fwar34.github.io/post/</loc>
     <lastmod>2021-05-12T18:01:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://localhost:1313/tags/</loc>
+    <loc>https://fwar34.github.io/tags/</loc>
     <lastmod>2021-05-12T18:01:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://localhost:1313/tags/test/</loc>
+    <loc>https://fwar34.github.io/tags/test/</loc>
     <lastmod>2021-05-12T18:01:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://localhost:1313/categories/</loc>
+    <loc>https://fwar34.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
