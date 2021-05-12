@@ -16,14 +16,5 @@
       <description>这个文件是一个测试文件，测试 org 文件在 hugo 静态博客中的使用。</description>
     </item>
     
-    <item>
-      <title>First Post</title>
-      <link>fwar34.github.io/posts/first-post/</link>
-      <pubDate>Wed, 12 May 2021 14:47:54 +0800</pubDate>
-      
-      <guid>fwar34.github.io/posts/first-post/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
