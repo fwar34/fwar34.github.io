@@ -1,0 +1,66 @@
+<?xml-stylesheet type="text/xsl" href="https://localhost:1313/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://localhost:1313/</loc>
+    <lastmod>2021-05-12T18:01:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/tags/nil/</loc>
+    <lastmod>2021-05-12T18:01:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/post/</loc>
+    <lastmod>2021-05-12T18:01:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/post/second/</loc>
+    <lastmod>2021-05-12T18:01:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/tags/</loc>
+    <lastmod>2021-05-12T18:01:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/post/first/</loc>
+    <lastmod>2021-05-12T18:01:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/tags/hugo/</loc>
+    <lastmod>2021-05-12T18:01:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/tags/test/</loc>
+    <lastmod>2021-05-12T18:01:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
