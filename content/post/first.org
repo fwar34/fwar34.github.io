@@ -3,7 +3,7 @@
 #+PUBLISHDATE: 2021-05-12T16:45:18+08:00
 #+DRAFT: false
 #+TAGS[]: test hugo
-#+DESCRIPTION: test for org in hugo
+#+DESCRIPTION: test images
 
 这个文件是一个测试文件，测试 org 文件在 hugo 静态博客中的使用。
 
