@@ -1,5 +1,5 @@
 #+TITLE: 一些emacs和elisp的cheatsheet
-#+DATE: 2020-03-20 Fri 14:59
+#+DATE: 2020-03-20
 #+DRAFT: false
 #+TAGS[]: emacs
 #+CATEGORIES[]: emacs 

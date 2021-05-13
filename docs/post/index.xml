@@ -28,7 +28,7 @@
     <item>
       <title>一些emacs和elisp的cheatsheet</title>
       <link>https://fwar34.github.io/post/cheatsheet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://fwar34.github.io/post/cheatsheet/</guid>
       <description>emacs相关 M-t 交换两个相邻的word 在文档中用反引号和单引号括起来的symbol是可以跳转过去的，可以使用xref-find-defini</description>
