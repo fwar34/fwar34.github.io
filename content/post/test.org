@@ -3,6 +3,7 @@
 #+DRAFT: false
 #+TAGS[]: test images
 #+CATEGORIES[]: test
+#+DESCRIPTION: test for images
 
 
 测试 yasnippet
