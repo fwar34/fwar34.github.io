@@ -24,7 +24,7 @@
 
 *** *elisp相关*
     1. with-eval-after-load和eval-after-load的区别
-       [[[[https://stackoverflow.com/questions/21880139/what-is-with-eval-after-load-in-emacs-lisp]]][stackoverflow]]
+       [[https://stackoverflow.com/questions/21880139/what-is-with-eval-after-load-in-emacs-lisp][stackoverflow]]
        #+BEGIN_QUOTE
        Lisp Changes in Emacs 24.4
        ...
