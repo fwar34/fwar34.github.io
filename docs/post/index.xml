@@ -25,5 +25,14 @@
       <description>这个文件是一个测试文件，测试 org 文件在 hugo 静态博客中的使用。 使用 easy-hugo-image 从 static 目下下面的图片文件来生成图片链接 测试 issue 测试图片，width 600px</description>
     </item>
     
+    <item>
+      <title>一些emacs和elisp的cheatsheet</title>
+      <link>https://fwar34.github.io/post/cheatsheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fwar34.github.io/post/cheatsheet/</guid>
+      <description>emacs相关 M-t 交换两个相邻的word 在文档中用反引号和单引号括起来的symbol是可以跳转过去的，可以使用xref-find-defini</description>
+    </item>
+    
   </channel>
 </rss>
