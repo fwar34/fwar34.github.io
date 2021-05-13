@@ -142,11 +142,11 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     clientSecret = ""       # Your client secret
 
   [params.utterances]       # https://utteranc.es/
-    enable = true
-    issueTerm  = "title"  #设置每篇文章对应的 issue 的名字，可选 pathname title url
+    # enable = true
+    # issueTerm  = "title"  #设置每篇文章对应的 issue 的名字，可选 pathname title url
     owner = "fwar34"              # Your GitHub ID
     repo = "fwar34/site-comments"               # The repo to store comments
-    theme = "github-light"
+    # theme = "github-light"
 
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
     owner = ""              # Your GitHub ID
