@@ -1,10 +1,13 @@
-+++
-categories = ["test"]
-tags = ["test","images"]
-title = "Test"
-date = "2021-05-13T14:31:07+08:00"
-draft = false
-+++
+#+HUGO_BASE_DIR: ../
+#+TITLE: Test
+#+DATE: 2021-05-13
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_TAGS: test images
+#+HUGO_CATEGORIES: test
+#+HUGO_DRAFT: false
 
-测试文件
+测试 yasnippet
+
+
+测试文件，使用 easy-hugo-pull-image 从网络直接下载图片到指定的目录（static/images）同时生成图片链接
 {{< figure src="https://fwar34.github.io/images/test.jpg" alt="" >}}

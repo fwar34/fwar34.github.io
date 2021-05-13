@@ -6,14 +6,14 @@
     <description>Recent content on My test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 13 May 2021 14:31:07 +0800</lastBuildDate><atom:link href="https://fwar34.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fwar34.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://fwar34.github.io/post/test/</link>
-      <pubDate>Thu, 13 May 2021 14:31:07 +0800</pubDate>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fwar34.github.io/post/test/</guid>
-      <description>测试文件</description>
+      <description>测试 yasnippet 测试文件，使用 easy-hugo-pull-image 从网络直接下载图片到指定的目录（static/images）同时生成图片链接</description>
     </item>
     
     <item>
