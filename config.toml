@@ -18,7 +18,7 @@ pygmentsCodefencesGuessSyntax = true
 
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 10                                              # 首页每页显示的文章数
-disqusShortname = "fwar34"      # disqus_shortname
+#disqusShortname = "fwar34"      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
@@ -143,8 +143,10 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   [params.utterances]       # https://utteranc.es/
     enable = true
+    issueTerm  = "title"  #设置每篇文章对应的 issue 的名字，可选 pathname title url
     owner = "fwar34"              # Your GitHub ID
     repo = "fwar34/site-comments"               # The repo to store comments
+    theme = "github-light"
 
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
     owner = ""              # Your GitHub ID
