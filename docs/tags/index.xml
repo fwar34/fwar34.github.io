@@ -6,22 +6,31 @@
     <description>Recent content in Tags on My test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 12 May 2021 16:45:18 +0800</lastBuildDate><atom:link href="https://fwar34.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 May 2021 14:31:07 +0800</lastBuildDate><atom:link href="https://fwar34.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>hugo</title>
-      <link>https://fwar34.github.io/tags/hugo/</link>
-      <pubDate>Wed, 12 May 2021 16:45:18 +0800</pubDate>
+      <title>images</title>
+      <link>https://fwar34.github.io/tags/images/</link>
+      <pubDate>Thu, 13 May 2021 14:31:07 +0800</pubDate>
       
-      <guid>https://fwar34.github.io/tags/hugo/</guid>
+      <guid>https://fwar34.github.io/tags/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
       <link>https://fwar34.github.io/tags/test/</link>
-      <pubDate>Wed, 12 May 2021 16:45:18 +0800</pubDate>
+      <pubDate>Thu, 13 May 2021 14:31:07 +0800</pubDate>
       
       <guid>https://fwar34.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://fwar34.github.io/tags/hugo/</link>
+      <pubDate>Wed, 12 May 2021 16:45:18 +0800</pubDate>
+      
+      <guid>https://fwar34.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
